@@ -2,3 +2,10 @@
     body{
       font-family: 'Inter', sans-serif;
     }
+    
+    @media screen and (max-width:576px) {
+      .cd-img-width{
+        width:100%;
+      }
+    }
+    
