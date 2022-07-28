@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Galada&family=Inter&family=Josefin+Sans&family=Lato&family=Manrope&family=Montserrat:ital@0;1&family=Noto+Serif+Bengali&family=Nunito&family=Open+Sans:wght@300&family=Oxygen&family=Poppins:ital,wght@0,300;0,400;0,500;1,400&family=Roboto:wght@500&display=swap');
+    body{
+      font-family: 'Inter', sans-serif;
+    }
+
+    .carousel-caption h5{
+      font-size: 3rem;
+    }
